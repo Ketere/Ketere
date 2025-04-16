@@ -51,7 +51,7 @@ We're passionate about continuous improvement. Our repositories reflect our jour
 
 ## 🌐 Connect with Us
 
-- 🌍 Website: [https://hotspot.craygroup.co.ke](https://hotspot.craygroup.co.ke)  
+- 🌍 Website: [https://www.craygroup.co.ke](https://wwww.craygroup.co.ke)  
 - 🐦 Twitter: [@CrayGroupLTD](https://twitter.com/CrayGroupLTD)  
 - 📩 Email: info@craygroup.co.ke
 
