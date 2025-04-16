@@ -45,7 +45,7 @@ We're passionate about continuous improvement. Our repositories reflect our jour
 
 ![Cray Group GitHub Stats](https://github-readme-stats.vercel.app/api?username=craygroup&show_icons=true&theme=github_dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=craygroup&layout=compact&theme=github_dark)
-[![GitHub Streak](https://streak-stats.demolab.com?user=craygroup&theme=github-dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Ketere&theme=github-dark)](https://git.io/streak-stats)
 
 ---
 
